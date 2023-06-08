@@ -41,7 +41,7 @@ input {
   font-size: 1rem;
   font-weight: 700;
   border: 1px solid $light;
-  color: $offBlack;
+  color: $black;
   padding: 0 16px;
 }
 input::placeholder {
@@ -74,7 +74,7 @@ button {
   }
 }
 button:hover {
-  background-color: $offBlack;
+  background-color: $black;
 }
 
 .attribution {

@@ -4,4 +4,4 @@ This is a template project i use for my Frontend Mentor Challenges
 
 Remember to change git origin
 
-$git remote set-url origin giturl.git
+```$ git remote set-url origin giturl.git```
